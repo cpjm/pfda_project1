@@ -1,4 +1,4 @@
-Depth (m),EDC3_gas_a (yr),"Gasage (AICC2012, yr BP)",CO2 (ppmv),sigma (ppmv),station,uni,source file,"Gasage (EDC3, yr BP)",sigma mean CO2 (ppmv),"Gasage (EDC3, yr BP).2",Depth (m).4
+Depth (m),EDC3_gas_a (yr),"Gasage (AICC2012, yr BP)",CO2 (ppmv),sigma (ppmv),station,uni,source file,"Gasage (EDC3, yr BP)",sigma mean CO2 (ppmv),"Gasage (EDC3, yr BP).2",sigma mean CO2 (ppmv).3
 3026.58,611269, ,257.8,2.1,moesm31,University of Bern,41586_2008_BFnature06949_MOESM31_ESM.csv,,,,
 3030.97,616164, ,252.6,0.6,moesm31,University of Bern,41586_2008_BFnature06949_MOESM31_ESM.csv,,,,
 3036.44,623109, ,243.3,2.8,moesm31,University of Bern,41586_2008_BFnature06949_MOESM31_ESM.csv,,,,
@@ -366,37 +366,37 @@ Depth (m),EDC3_gas_a (yr),"Gasage (AICC2012, yr BP)",CO2 (ppmv),sigma (ppmv),sta
 467.78,, ,204.60,,Taylor Dome (19-63 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,61239.00,0.40,,
 470.18,, ,197.40,,Taylor Dome (19-63 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,62751.00,0.50,,
 470.92,, ,203.60,,Taylor Dome (19-63 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,63205.00,1.00,,
-2761.85,,415945.61,276.40,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,1.60,415717.00,2700.77
-2762.89,,416425.32,271.70,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,1.20,416193.00,2702.97
-2765.08,,417440.44,273.40,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,1.50,417191.00,2705.17
-2766.18,,417956.78,271.80,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,1.70,417698.00,2713.97
-2767.33,,418505.30,274.60,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,1.80,418245.00,2718.37
-2769.48,,419575.78,273.70,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,0.80,419260.00,2720.57
-2770.58,,420133.76,271.20,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,1.50,419808.00,2724.97
-2771.68,,420701.76,273.80,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,1.60,420350.00,2727.17
-2773.88,,421912.15,268.60,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,1.40,421484.00,2731.57
-2774.96,,422532.65,266.40,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,1.80,422074.00,2733.77
-2776.13,,423225.50,270.60,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,1.10,422649.00,2738.17
-2778.28,,424507.75,267.70,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,2.90,423764.00,2740.37
-2779.39,,425132.26,268.30,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,1.90,424332.00,2744.77
-2780.48,,425740.91,270.80,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,1.10,424840.00,2746.97
-2781.32,,426237.27,270.00,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,2.50,425242.00,2746.97
-2781.96,,426621.56,265.40,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,2.00,425569.00,2749.17
-2782.73,,427154.96,255.30,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,1.30,425975.00,2751.37
-2783.81,,427941.40,252.10,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,0.70,426598.00,2755.77
-2784.88,,428840.20,248.20,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,0.90,427285.00,2757.97
-2785.27,,429178.36,242.50,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,1.50,427566.00,2760.17
-2787.08,,431023.76,219.70,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,1.70,429006.00,2762.37
-2788.03,,432179.31,227.20,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,2.20,429876.00,2764.57
-2789.29,,433850.30,211.50,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,1.70,431063.00,2766.77
-2789.67,,434379.07,207.60,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,1.30,431445.00,2768.97
-2790.78,,435939.69,209.80,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,1.60,432599.00,2771.17
-2791.87,,437485.42,207.50,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,1.30,433674.00,2775.57
-2792.97,,439063.42,200.30,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,1.60,434804.00,2775.57
-2794.08,,440659.58,201.70,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,1.60,435989.00,2777.77
-2795.17,,442230.78,201.30,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,1.10,437152.00,2779.97
-2796.28,,443844.65,202.00,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,1.50,438356.00,2782.17
-2797.38,,445331.73,199.10,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,1.10,439565.00,2784.37
+2761.85,,415945.61,276.40,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,1.60,415717.00,
+2762.89,,416425.32,271.70,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,1.20,416193.00,
+2765.08,,417440.44,273.40,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,1.50,417191.00,
+2766.18,,417956.78,271.80,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,1.70,417698.00,
+2767.33,,418505.30,274.60,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,1.80,418245.00,
+2769.48,,419575.78,273.70,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,0.80,419260.00,
+2770.58,,420133.76,271.20,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,1.50,419808.00,
+2771.68,,420701.76,273.80,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,1.60,420350.00,
+2773.88,,421912.15,268.60,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,1.40,421484.00,
+2774.96,,422532.65,266.40,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,1.80,422074.00,
+2776.13,,423225.50,270.60,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,1.10,422649.00,
+2778.28,,424507.75,267.70,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,2.90,423764.00,
+2779.39,,425132.26,268.30,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,1.90,424332.00,
+2780.48,,425740.91,270.80,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,1.10,424840.00,
+2781.32,,426237.27,270.00,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,2.50,425242.00,
+2781.96,,426621.56,265.40,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,2.00,425569.00,
+2782.73,,427154.96,255.30,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,1.30,425975.00,
+2783.81,,427941.40,252.10,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,0.70,426598.00,
+2784.88,,428840.20,248.20,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,0.90,427285.00,
+2785.27,,429178.36,242.50,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,1.50,427566.00,
+2787.08,,431023.76,219.70,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,1.70,429006.00,
+2788.03,,432179.31,227.20,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,2.20,429876.00,
+2789.29,,433850.30,211.50,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,1.70,431063.00,
+2789.67,,434379.07,207.60,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,1.30,431445.00,
+2790.78,,435939.69,209.80,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,1.60,432599.00,
+2791.87,,437485.42,207.50,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,1.30,433674.00,
+2792.97,,439063.42,200.30,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,1.60,434804.00,
+2794.08,,440659.58,201.70,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,1.60,435989.00,
+2795.17,,442230.78,201.30,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,1.10,437152.00,
+2796.28,,443844.65,202.00,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,1.50,438356.00,
+2797.38,,445331.73,199.10,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,1.10,439565.00,
 2798.92,,447219.18,201.10,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,0.90,441220.00,
 2800.02,,448459.18,203.50,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,0.60,442411.00,
 2801.13,,449571.04,208.10,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,1.80,443562.00,
@@ -688,17 +688,301 @@ Depth (m),EDC3_gas_a (yr),"Gasage (AICC2012, yr BP)",CO2 (ppmv),sigma (ppmv),sta
 3058.52,,662873.78,189.00,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,1.00,663206.00,
 3059.25,,663940.73,189.10,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,1.20,664192.00,
 3059.61,,664403.27,185.80,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,0.80,664690.00,
-,,,,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,,,
-,,,,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,,,
-,,,,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,,,
-,,,,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,,,
-,,,,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,,,
-,,,,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,,,
-,,,,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,,,
-,,,,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,,,
-,,,,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,,,
-,,,,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,,,
-,,,,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,,,
-,,,,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,,,
-,,,,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,,,
-,,,,,Dome C (393-664 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,,,,
+3026.58,,611555.76,257.80,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,611269.00,,,2.10
+3030.97,,616298.56,252.60,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,616164.00,,,0.60
+3036.44,,622946.80,243.30,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,623109.00,,,2.80
+3040.87,,629768.93,204.40,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,630183.00,,,0.90
+3043.07,,634879.92,195.00,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,635364.00,,,1.50
+3055.18,,657660.70,187.50,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,658404.00,,,1.80
+3056.25,,659293.00,185.60,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,659983.00,,,1.10
+3057.36,,661113.40,192.10,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,661563.00,,,1.00
+3058.47,,662798.42,192.00,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,663133.00,,,2.10
+3059.55,,664326.18,190.60,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,664597.00,,,1.30
+3060.33,,665328.36,178.20,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,665645.00,,,1.10
+3060.73,,665842.30,178.50,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,666174.00,,,1.10
+3061.36,,666750.47,172.70,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,666995.00,,,1.00
+3061.82,,667415.93,171.60,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,667569.00,,,1.40
+3062.53,,668418.41,175.60,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,668447.00,,,0.70
+3062.93,,668921.19,178.50,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,668934.00,,,0.70
+3063.64,,669813.64,185.50,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,669751.00,,,0.20
+3064.02,,670291.29,189.30,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,670176.00,,,0.90
+3064.76,,671076.01,192.60,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,670916.00,,,1.00
+3065.12,,671454.77,194.60,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,671286.00,,,0.70
+3065.76,,672144.89,192.50,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,671926.00,,,0.60
+3066.22,,672757.39,194.80,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,672386.00,,,1.00
+3066.93,,673702.76,198.70,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,673095.00,,,1.00
+3067.33,,674235.37,202.30,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,673475.00,,,0.70
+3068.07,,675030.00,209.20,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,674173.00,,,0.60
+3068.42,,675403.33,213.70,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,674521.00,,,0.80
+3069.52,,676527.82,220.00,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,675589.00,,,0.80
+3070.16,,677150.36,217.40,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,676170.00,,,0.60
+3070.62,,677597.82,214.00,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,676524.00,,,0.90
+3071.33,,678333.38,215.60,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,677068.00,,,1.40
+3071.72,,678738.50,217.40,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,677380.00,,,1.50
+3072.44,,679451.81,226.50,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,677984.00,,,0.80
+3072.80,,679736.76,230.00,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,678291.00,,,0.90
+3073.53,,680314.56,230.80,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,678914.00,,,0.60
+3073.93,,680631.17,230.30,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,679252.00,,,1.20
+3074.56,,681228.53,223.00,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,679732.00,,,1.20
+3075.02,,681667.07,225.00,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,680081.00,,,1.30
+3075.73,,682348.66,218.40,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,680608.00,,,0.90
+3076.13,,682744.54,216.20,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,680920.00,,,1.00
+3076.85,,683457.12,217.30,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,681531.00,,,1.70
+3077.23,,683833.21,219.70,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,681849.00,,,0.60
+3077.93,,684427.91,222.60,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,682446.00,,,1.60
+3078.32,,684757.64,221.30,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,682762.00,,,1.30
+3078.96,,685297.31,218.70,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,683262.00,,,0.80
+3079.43,,685683.56,217.50,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,683612.00,,,0.70
+3080.14,,686267.05,217.50,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,684142.00,,,1.40
+3080.52,,686579.35,219.40,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,684419.00,,,1.00
+3081.25,,687151.70,219.50,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,684949.00,,,1.10
+3081.63,,687449.02,219.70,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,685217.00,,,1.20
+3082.34,,688004.28,223.50,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,685716.00,,,1.00
+3082.72,,688300.92,224.40,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,685980.00,,,1.30
+3083.37,,688808.31,224.30,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,686425.00,,,1.10
+3083.82,,689159.58,227.30,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,686726.00,,,1.70
+3084.56,,689695.06,228.70,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,687227.00,,,1.30
+3084.92,,689954.70,228.80,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,687470.00,,,1.50
+3085.65,,690476.73,232.30,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,687949.00,,,1.00
+3086.03,,690739.50,233.00,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,688195.00,,,0.50
+3086.73,,691223.56,235.80,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,688652.00,,,1.10
+3087.08,,691465.59,234.90,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,688881.00,,,1.20
+3087.76,,691970.21,235.80,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,689304.00,,,2.00
+3088.23,,692321.71,239.90,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,689603.00,,,0.60
+3088.93,,692834.12,235.60,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,690057.00,,,1.30
+3089.30,,693079.21,234.80,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,690294.00,,,2.10
+3090.05,,693576.03,240.00,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,690771.00,,,2.10
+3090.42,,693821.13,234.00,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,690999.00,,,0.80
+3091.13,,694281.97,235.60,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,691432.00,,,1.00
+3091.52,,694534.88,236.60,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,691672.00,,,0.70
+3092.16,,694951.15,235.50,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,692057.00,,,0.90
+3092.62,,695258.93,235.90,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,692338.00,,,1.40
+3093.33,,695733.98,232.90,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,692765.00,,,0.60
+3093.70,,695981.55,234.80,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,692990.00,,,1.50
+3094.45,,696436.70,234.10,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,693433.00,,,1.50
+3094.80,,696647.55,234.10,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,693639.00,,,1.30
+3095.53,,697091.88,235.40,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,694068.00,,,1.00
+3095.92,,697340.54,234.40,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,694300.00,,,1.10
+3096.56,,697748.59,235.80,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,694672.00,,,1.30
+3097.02,,698041.87,236.90,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,694941.00,,,0.80
+3097.74,,698505.11,236.70,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,695383.00,,,1.90
+3098.13,,698756.13,237.60,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,695618.00,,,0.70
+3098.85,,699213.64,234.60,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,696062.00,,,1.00
+3099.22,,699437.21,234.80,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,696287.00,,,0.60
+3099.93,,699866.22,235.40,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,696717.00,,,0.80
+3100.32,,700101.87,232.90,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,696963.00,,,0.60
+3100.92,,700488.25,232.40,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,697331.00,,,0.70
+3101.43,,700817.75,232.20,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,697660.00,,,0.50
+3102.13,,701270.15,231.00,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,698120.00,,,1.00
+3102.52,,701522.58,228.00,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,698386.00,,,0.50
+3103.25,,701995.09,226.40,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,698880.00,,,1.00
+3103.57,,702202.22,227.70,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,699102.00,,,0.70
+3104.33,,702737.83,227.60,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,699633.00,,,1.60
+3104.71,,703008.21,226.00,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,699909.00,,,0.30
+3105.36,,703470.65,228.70,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,700389.00,,,1.30
+3105.82,,703797.67,227.60,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,700744.00,,,1.10
+3106.46,,704252.65,228.20,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,701242.00,,,0.50
+3106.92,,704579.67,228.80,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,701606.00,,,1.40
+3107.64,,705055.98,229.30,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,702158.00,,,0.50
+3107.93,,705247.21,230.30,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,702381.00,,,1.70
+3108.65,,705723.82,232.40,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,702988.00,,,1.30
+3109.12,,706051.11,232.80,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,703384.00,,,1.60
+3109.75,,706489.82,231.20,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,703934.00,,,1.80
+3110.07,,706712.65,231.20,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,704211.00,,,0.90
+3110.88,,707311.07,233.90,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,704973.00,,,0.80
+3111.32,,707641.47,228.50,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,705410.00,,,1.50
+3112.05,,708200.09,228.60,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,706141.00,,,1.00
+3112.31,,708413.45,228.10,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,706409.00,,,1.00
+3112.98,,708959.15,229.80,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,707094.92,,,1.10
+3113.58,,709453.79,226.30,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,707762.40,,,0.90
+3114.08,,709909.55,225.40,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,708322.20,,,1.00
+3114.68,,710456.45,221.90,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,709006.20,,,0.70
+3115.25,,710979.36,219.70,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,709680.00,,,0.60
+3115.72,,711396.38,220.20,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,710237.00,,,0.30
+3116.42,,712017.47,218.90,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,711104.00,,,1.50
+3116.68,,712248.16,218.70,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,711421.00,,,1.40
+3117.81,,713310.13,218.50,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,712833.00,,,0.50
+3118.60,,714063.61,222.30,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,713843.00,,,1.60
+3118.95,,714408.73,221.70,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,714288.00,,,2.00
+3119.67,,715118.69,217.70,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,715180.00,,,0.60
+3120.12,,715562.42,222.10,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,715750.00,,,0.60
+3120.85,,716305.58,208.10,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,716704.00,,,0.70
+3121.13,,716591.01,205.00,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,717065.00,,,1.70
+3121.86,,717352.18,192.90,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,718064.00,,,1.20
+3122.32,,717951.58,184.30,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,718779.00,,,1.10
+3122.95,,718772.48,187.80,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,719794.00,,,1.60
+3123.35,,719293.70,195.20,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,720337.00,,,0.80
+3124.06,,720090.56,206.30,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,721318.00,,,0.80
+3124.52,,720593.22,211.30,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,722039.00,,,0.90
+3125.27,,721412.15,213.40,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,723133.00,,,1.20
+3125.53,,721695.31,213.20,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,723464.00,,,1.30
+3126.27,,722501.24,210.30,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,724445.00,,,2.00
+3126.72,,722991.33,206.30,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,725059.00,,,0.70
+3127.41,,723780.80,206.60,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,725937.00,,,1.80
+3127.73,,724147.73,208.10,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,726322.00,,,1.20
+3128.45,,724970.45,204.50,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,727192.00,,,0.40
+3128.91,,725471.44,205.50,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,727732.00,,,1.30
+3129.62,,726244.69,205.10,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,728568.00,,,1.10
+3129.93,,726582.31,205.40,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,728921.00,,,0.80
+3131.12,,727895.19,204.00,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,730299.00,,,1.60
+3131.75,,728589.12,204.10,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,730949.00,,,0.80
+3132.13,,728992.84,204.90,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,731329.00,,,0.80
+3132.92,,729832.16,203.80,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,732141.00,,,1.00
+3133.32,,730257.13,205.90,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,732548.00,,,1.70
+3134.02,,730904.18,203.90,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,733261.00,,,0.70
+3134.33,,731188.82,204.40,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,733543.00,,,0.30
+3135.06,,731864.00,205.30,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,734223.00,,,0.40
+3135.52,,732324.00,207.40,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,734604.00,,,1.90
+3136.19,,732994.00,201.70,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,735167.00,,,1.20
+3136.53,,733334.00,201.30,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,735459.00,,,0.80
+3137.25,,734018.00,204.10,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,736079.00,,,1.00
+3137.72,,734459.80,209.70,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,736460.00,,,1.80
+3138.44,,735138.38,208.10,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,737034.00,,,0.70
+3138.73,,735414.67,211.30,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,737266.00,,,0.80
+3139.46,,736110.16,210.60,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,737889.00,,,1.40
+3139.89,,736519.84,206.50,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,738272.00,,,1.70
+3140.54,,737267.48,200.30,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,738844.00,,,1.60
+3140.88,,737665.38,197.80,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,739137.00,,,1.50
+3141.66,,738584.84,185.00,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,739842.00,,,0.90
+3142.12,,739173.92,178.90,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,740277.00,,,0.30
+3142.85,,740108.76,178.60,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,741021.00,,,2.40
+3143.13,,740467.33,176.60,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,741307.00,,,2.40
+3143.86,,741333.41,177.90,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,742075.00,,,2.10
+3144.32,,741870.63,182.30,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,742558.00,,,1.30
+3144.98,,742645.36,181.70,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,743233.00,,,2.70
+3145.32,,743059.13,180.40,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,743589.00,,,0.70
+3146.06,,743959.68,181.20,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,744354.00,,,0.90
+3146.52,,744519.49,182.00,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,744843.00,,,0.90
+3147.48,,745677.07,180.20,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,745836.00,,,1.20
+3148.26,,746617.51,183.10,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,746643.00,,,0.40
+3148.72,,747173.41,180.80,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,747110.00,,,0.30
+3149.35,,747934.76,180.80,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,747759.00,,,1.30
+3149.68,,748333.56,180.40,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,748101.00,,,0.80
+3150.45,,749257.55,181.40,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,748913.00,,,1.30
+3150.91,,749808.43,182.90,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,749401.00,,,1.80
+3151.65,,750704.55,184.80,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,750194.00,,,1.60
+3151.91,,751033.09,184.00,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,750476.00,,,1.40
+3152.65,,751968.18,186.20,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,751301.00,,,1.90
+3153.12,,752562.09,190.10,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,751830.00,,,1.30
+3153.78,,753482.76,188.00,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,752605.00,,,0.30
+3154.10,,753931.15,196.50,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,752978.00,,,1.80
+3154.96,,755118.45,191.50,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,753984.00,,,1.70
+3155.32,,755582.96,195.80,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,754394.00,,,1.50
+3156.08,,756563.59,200.50,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,755241.00,,,2.00
+3156.30,,756847.45,201.90,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,755495.00,,,1.40
+3157.05,,757779.91,206.00,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,756357.00,,,2.20
+3157.52,,758358.72,210.70,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,756871.00,,,2.30
+3158.15,,759130.52,215.00,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,757561.00,,,1.50
+3158.53,,759567.63,219.20,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,757962.00,,,1.40
+3158.80,,759878.21,215.30,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,758259.00,,,0.70
+3159.00,,760108.27,217.60,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,758475.00,,,1.80
+3159.35,,760510.88,217.90,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,758883.00,,,2.30
+3159.72,,760936.49,214.90,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,759306.00,,,1.20
+3160.47,,761865.11,208.80,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,760202.00,,,0.80
+3160.71,,762163.15,206.90,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,760500.00,,,1.10
+3161.46,,763106.11,206.10,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,761453.00,,,1.90
+3161.92,,763766.28,212.00,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,762064.00,,,0.20
+3162.55,,764670.42,216.00,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,762871.00,,,2.10
+3162.91,,765187.08,215.00,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,763319.00,,,0.90
+3163.20,,765586.64,225.70,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,763686.00,,,3.00
+3163.40,,765851.48,221.40,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,763934.00,,,2.70
+3163.65,,766182.55,224.10,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,764249.00,,,1.40
+3164.12,,766804.94,222.60,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,764833.00,,,0.90
+3164.84,,767752.28,216.80,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,765735.00,,,1.60
+3165.13,,768123.66,215.70,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,766110.00,,,0.50
+3165.86,,769058.50,213.50,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,767096.00,,,0.40
+3166.32,,769647.58,217.70,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,767737.00,,,0.90
+3166.97,,770595.33,222.40,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,768655.00,,,2.10
+3167.26,,771020.67,221.40,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,769050.00,,,1.80
+3167.60,,771519.33,228.10,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,769514.00,,,1.60
+3167.80,,771812.67,226.00,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,769787.00,,,1.60
+3168.05,,772169.55,231.50,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,770133.00,,,1.90
+3168.29,,772474.56,235.60,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,770447.00,,,1.10
+3168.50,,772741.45,238.20,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,770724.00,,,2.20
+3168.70,,772995.64,235.60,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,770994.00,,,2.10
+3168.90,,773249.82,237.70,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,771260.00,,,2.40
+3169.24,,773681.93,229.50,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,771708.00,,,1.50
+3169.53,,774050.49,230.90,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,772076.00,,,1.00
+3170.25,,774953.18,230.00,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,773043.00,,,2.30
+3170.72,,775540.82,233.30,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,773680.00,,,0.90
+3171.35,,776326.79,236.90,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,774548.00,,,0.40
+3171.73,,776788.78,240.50,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,775051.00,,,0.60
+3172.46,,777676.28,238.80,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,776037.00,,,2.00
+3172.92,,778235.53,243.90,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,776636.00,,,0.70
+3173.65,,779058.55,246.30,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,777556.00,,,0.50
+3173.93,,779373.16,246.10,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,777900.00,,,1.10
+3174.65,,780183.73,245.80,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,778798.00,,,2.40
+3175.11,,780714.82,243.90,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,779364.00,,,0.90
+3175.84,,781557.64,248.50,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,780268.00,,,0.60
+3176.13,,781892.45,242.80,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,780612.00,,,0.70
+3176.89,,782732.28,248.70,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,781535.00,,,0.70
+3177.32,,783203.46,246.20,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,782059.00,,,1.10
+3178.31,,784263.41,252.10,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,783263.00,,,2.50
+3179.05,,785029.42,246.90,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,784147.00,,,0.70
+3179.52,,785515.95,250.70,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,784692.00,,,0.20
+3180.15,,786184.82,253.30,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,785413.00,,,2.60
+3180.51,,786567.51,255.40,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,785789.00,,,1.40
+3181.26,,787358.38,260.30,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,786587.00,,,1.30
+3181.73,,787807.87,256.90,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,787076.00,,,0.70
+3182.43,,788477.33,248.10,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,787805.00,,,1.50
+3182.65,,788687.73,247.90,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,788033.00,,,2.70
+3183.46,,789494.55,229.50,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,788887.00,,,0.80
+3183.91,,789948.64,226.30,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,789381.00,,,3.00
+3184.57,,790633.64,218.20,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,790153.00,,,0.80
+3184.90,,791056.24,221.30,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,790538.00,,,1.80
+3185.66,,792029.50,215.40,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,791491.00,,,3.70
+3186.12,,792618.58,205.10,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,792081.00,,,2.50
+3186.75,,793517.00,204.00,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,792943.00,,,1.60
+3186.98,,793846.67,209.00,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,793260.00,,,1.90
+3187.87,,795130.18,199.40,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,794608.00,,,1.70
+3188.23,,795686.55,195.20,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,795202.00,,,2.00
+3188.98,,796845.64,189.30,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,796467.00,,,2.10
+3189.33,,797386.55,188.40,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,797099.00,,,1.40
+3190.08,,798680.42,191.00,,Dome C (611-800 kyr BP),University of Bern,grl52461-sup-0003-supplementary.csv,798512.00,,,2.20
+3061.71,,667256.80,178.50,,Dome C (611-800 kyr BP),LGGE Grenoble,grl52461-sup-0003-supplementary.csv,667435.00,,,
+3063.98,,670241.01,189.00,,Dome C (611-800 kyr BP),LGGE Grenoble,grl52461-sup-0003-supplementary.csv,670124.00,,,
+3085.78,,690566.62,234.00,,Dome C (611-800 kyr BP),LGGE Grenoble,grl52461-sup-0003-supplementary.csv,688035.00,,,
+3086.88,,691327.29,235.40,,Dome C (611-800 kyr BP),LGGE Grenoble,grl52461-sup-0003-supplementary.csv,688751.00,,,
+3087.98,,692134.74,241.00,,Dome C (611-800 kyr BP),LGGE Grenoble,grl52461-sup-0003-supplementary.csv,689444.00,,,
+3089.08,,692933.48,235.00,,Dome C (611-800 kyr BP),LGGE Grenoble,grl52461-sup-0003-supplementary.csv,690155.00,,,
+3091.28,,694379.24,235.90,,Dome C (611-800 kyr BP),LGGE Grenoble,grl52461-sup-0003-supplementary.csv,691524.00,,,
+3093.48,,695834.35,236.30,,Dome C (611-800 kyr BP),LGGE Grenoble,grl52461-sup-0003-supplementary.csv,692857.00,,,
+3120.01,,715453.95,223.80,,Dome C (611-800 kyr BP),LGGE Grenoble,grl52461-sup-0003-supplementary.csv,715603.00,,,
+3122.20,,717795.21,190.20,,Dome C (611-800 kyr BP),LGGE Grenoble,grl52461-sup-0003-supplementary.csv,718581.00,,,
+3124.41,,720473.02,217.00,,Dome C (611-800 kyr BP),LGGE Grenoble,grl52461-sup-0003-supplementary.csv,721870.00,,,
+3128.68,,725220.95,203.70,,Dome C (611-800 kyr BP),LGGE Grenoble,grl52461-sup-0003-supplementary.csv,727458.00,,,
+3133.08,,730002.15,210.70,,Dome C (611-800 kyr BP),LGGE Grenoble,grl52461-sup-0003-supplementary.csv,732300.00,,,
+3135.28,,732084.00,209.60,,Dome C (611-800 kyr BP),LGGE Grenoble,grl52461-sup-0003-supplementary.csv,734408.00,,,
+3141.82,,738789.73,198.00,,Dome C (611-800 kyr BP),LGGE Grenoble,grl52461-sup-0003-supplementary.csv,739986.00,,,
+3146.37,,744336.95,185.20,,Dome C (611-800 kyr BP),LGGE Grenoble,grl52461-sup-0003-supplementary.csv,744681.00,,,
+3150.68,,749532.99,188.80,,Dome C (611-800 kyr BP),LGGE Grenoble,grl52461-sup-0003-supplementary.csv,749152.00,,,
+3152.88,,752258.82,193.80,,Dome C (611-800 kyr BP),LGGE Grenoble,grl52461-sup-0003-supplementary.csv,751552.00,,,
+3155.08,,755273.28,197.30,,Dome C (611-800 kyr BP),LGGE Grenoble,grl52461-sup-0003-supplementary.csv,754124.00,,,
+3156.18,,756692.62,203.40,,Dome C (611-800 kyr BP),LGGE Grenoble,grl52461-sup-0003-supplementary.csv,755354.00,,,
+3157.28,,758063.16,214.40,,Dome C (611-800 kyr BP),LGGE Grenoble,grl52461-sup-0003-supplementary.csv,756605.00,,,
+3158.38,,759395.08,225.50,,Dome C (611-800 kyr BP),LGGE Grenoble,grl52461-sup-0003-supplementary.csv,757805.00,,,
+3159.48,,760660.42,216.60,,Dome C (611-800 kyr BP),LGGE Grenoble,grl52461-sup-0003-supplementary.csv,759027.00,,,
+3160.58,,762001.71,214.90,,Dome C (611-800 kyr BP),LGGE Grenoble,grl52461-sup-0003-supplementary.csv,760338.00,,,
+3161.68,,763421.84,213.00,,Dome C (611-800 kyr BP),LGGE Grenoble,grl52461-sup-0003-supplementary.csv,761745.00,,,
+3162.78,,765000.51,221.30,,Dome C (611-800 kyr BP),LGGE Grenoble,grl52461-sup-0003-supplementary.csv,763158.00,,,
+3163.88,,766487.12,226.50,,Dome C (611-800 kyr BP),LGGE Grenoble,grl52461-sup-0003-supplementary.csv,764529.00,,,
+3164.98,,767931.57,216.10,,Dome C (611-800 kyr BP),LGGE Grenoble,grl52461-sup-0003-supplementary.csv,765917.00,,,
+3167.18,,770903.33,227.50,,Dome C (611-800 kyr BP),LGGE Grenoble,grl52461-sup-0003-supplementary.csv,768940.00,,,
+3168.28,,772461.85,233.90,,Dome C (611-800 kyr BP),LGGE Grenoble,grl52461-sup-0003-supplementary.csv,770434.00,,,
+3169.38,,773859.85,226.90,,Dome C (611-800 kyr BP),LGGE Grenoble,grl52461-sup-0003-supplementary.csv,771888.00,,,
+3170.48,,775240.75,238.60,,Dome C (611-800 kyr BP),LGGE Grenoble,grl52461-sup-0003-supplementary.csv,773353.00,,,
+3171.58,,776606.41,240.10,,Dome C (611-800 kyr BP),LGGE Grenoble,grl52461-sup-0003-supplementary.csv,774854.00,,,
+3172.68,,777943.75,245.90,,Dome C (611-800 kyr BP),LGGE Grenoble,grl52461-sup-0003-supplementary.csv,776322.00,,,
+3173.78,,779204.62,246.70,,Dome C (611-800 kyr BP),LGGE Grenoble,grl52461-sup-0003-supplementary.csv,777719.00,,,
+3174.88,,780449.27,243.80,,Dome C (611-800 kyr BP),LGGE Grenoble,grl52461-sup-0003-supplementary.csv,779076.00,,,
+3177.08,,782940.48,251.20,,Dome C (611-800 kyr BP),LGGE Grenoble,grl52461-sup-0003-supplementary.csv,781771.00,,,
+3178.18,,784128.84,252.50,,Dome C (611-800 kyr BP),LGGE Grenoble,grl52461-sup-0003-supplementary.csv,783110.00,,,
+3179.28,,785267.51,248.40,,Dome C (611-800 kyr BP),LGGE Grenoble,grl52461-sup-0003-supplementary.csv,784409.00,,,
+3180.38,,786429.32,255.30,,Dome C (611-800 kyr BP),LGGE Grenoble,grl52461-sup-0003-supplementary.csv,785654.00,,,
+3181.48,,787568.78,256.60,,Dome C (611-800 kyr BP),LGGE Grenoble,grl52461-sup-0003-supplementary.csv,786819.00,,,
+3182.58,,788620.78,246.40,,Dome C (611-800 kyr BP),LGGE Grenoble,grl52461-sup-0003-supplementary.csv,787957.00,,,
+3183.68,,789716.55,239.30,,Dome C (611-800 kyr BP),LGGE Grenoble,grl52461-sup-0003-supplementary.csv,789126.00,,,
+3185.88,,792311.24,217.30,,Dome C (611-800 kyr BP),LGGE Grenoble,grl52461-sup-0003-supplementary.csv,791767.00,,,
+3186.98,,793846.67,224.20,,Dome C (611-800 kyr BP),LGGE Grenoble,grl52461-sup-0003-supplementary.csv,793255.00,,,
+3188.08,,795454.73,206.70,,Dome C (611-800 kyr BP),LGGE Grenoble,grl52461-sup-0003-supplementary.csv,794949.00,,,
+3190.28,,799032.30,193.60,,Dome C (611-800 kyr BP),LGGE Grenoble,grl52461-sup-0003-supplementary.csv,798893.00,,,
