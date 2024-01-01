@@ -1,4 +1,4 @@
-Depth (m),"Gasage (EDC3, yr BP).2","Gasage (AICC2012, yr BP)",CO2 (ppmv),sigma mean CO2 (ppmv),station,uni
+Depth (m),"Gasage (EDC3, yr BP)","Gasage (AICC2012, yr BP)",CO2 (ppmv),sigma mean CO2 (ppmv),station,uni
 2761.85,415717.00,415945.61,276.40,1.60,Dome C (393-664 kyr BP),University of Bern
 2762.89,416193.00,416425.32,271.70,1.20,Dome C (393-664 kyr BP),University of Bern
 2765.08,417191.00,417440.44,273.40,1.50,Dome C (393-664 kyr BP),University of Bern
