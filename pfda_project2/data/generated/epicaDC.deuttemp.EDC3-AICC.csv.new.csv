@@ -1,4 +1,4 @@
-bag,Depth (m),EDC3_gas_a (yr),AICC2012,deutfinal,temp,acc-EDC3beta,station,uni,Temperature
+bag,Depth (m),EDC3_gas_a (yr),AICC2012,Deuterium,temp,acc-EDC3beta,station,uni,Temperature
 1,0.0,-50.0,-55.0,,218.3,3.105321,EPICA Dome C,NOAA/NCDC,-54.849999999999966
 2,0.55,-43.55977,-50.51333333,,218.3,3.104805,EPICA Dome C,NOAA/NCDC,-54.849999999999966
 3,1.1,-37.44019,-46.02666667,,218.3,3.104404,EPICA Dome C,NOAA/NCDC,-54.849999999999966
